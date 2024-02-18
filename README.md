@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/djedd1ne/Libft">
+  <a href="https://github.com/djedd1ne/ft_printf">
     <img src="images/logo.png" alt="Logo" width="300" height="100">
   </a>
 
